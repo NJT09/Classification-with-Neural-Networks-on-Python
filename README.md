@@ -1,0 +1,1 @@
+Classification is the task of categorizing known classes/labels/targets based on their features. In most real-world problems, simple machine learning algorithms such as logistic regression, Naive Bayes, and KNN will do the job, but while classifying a large dataset of images, you will need to use a neural network.
